@@ -1,0 +1,7 @@
+{
+  "name": "ஸ்ரீ விட்டல் ஜோதிடம்",
+  "description": "ஸ்ரீ விட்டல் ஜோதிடாலயம் - ஜோதிட ஸ்ரீ ராஜகோபால் அவர்களின் தமிழ் & ஆங்கில AI ஜோதிட ஆலோசனை மற்றும் வாடிக்கையாளர் ஆதரவு செயலி",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
